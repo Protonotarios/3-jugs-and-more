@@ -1,5 +1,11 @@
 # Οι τρεις καρδάρες και άλλα προβλήματα
 
+## Η πλήρης εργασία
+
+:cow2: :cow2: :cow2: Η πλήρης εργασία βρίσκεται στο **[wiki](https://github.com/Protonotarios/3-jugs-and-more/wiki).** :cow2: :cow2: :cow2: 
+
+## Περιεχόμενα προγράμματα
+
 1. [create-graph.py](create-graph.py): Πρόγραμμα σε Python που δημιουργεί κώδικα dot ο οποίος με τη σειρά του σχεδιάζει τον χώρο καταστάσεων του προβλήματος.
 2. [priority-graph.dot](priority-graph.dot): Ο κώδικας dot που παρήγαγε ο παραπάνω κώδικας. Τρέχει σε [GraphViz](http://www.graphviz.org/).
 3. [depth-first.py](depth-first.py): Πρόγραμμα σε Python που επιλύει το πρόβλημα με αναζήτηση κατά βάθος.
