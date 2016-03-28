@@ -7,7 +7,7 @@
 #    Ιωάννης Πρωτονοτάριος <ioannis@protonotarios.eu>
 #    Εργασία για το μάθημα Ευφυή συστήματα
 #    21 Μαρτίου 2016
-#    cc-by-sa
+#    GNU license
 
 k=[0,0,10]
 katastaseis_poy_exoyme_e3etasei=[k]
