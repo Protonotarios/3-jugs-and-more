@@ -7,7 +7,7 @@
 #    Ιωάννης Πρωτονοτάριος <ioannis@protonotarios.eu>
 #    Εργασία για το μάθημα Ευφυή συστήματα
 #    21 Μαρτίου 2016
-#    cc-by-sa
+#    GNU license
 
 from __future__ import absolute_import
 from __future__ import unicode_literals
