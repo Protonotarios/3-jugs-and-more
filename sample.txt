@@ -1,0 +1,13 @@
+digraph g {
+node [shape = record,height=.1];
+nodeA[label = "<f0> Patras|<f1> Greece"];
+nodeB[label = "<f0> Athens|<f1> Greece"];
+nodeC[label = "<f0> Tokyo|<f1> Japan"];
+nodeAA[label = "Europe"];
+nodeBB[label = "Asia"];
+"nodeA":f1 -> "nodeAA":f1 [label = "in_continent"];
+"nodeB":f1 -> "nodeAA":f1 [label = "in_continent"];
+"nodeC":f1 -> "nodeBB":f1 [label = "in_continent"];
+"nodeA":f0 -> "nodeB":f0 [label = "smaller_than"];
+"nodeC":f0 -> "nodeB":f0 [label = "larger_than"];
+}
